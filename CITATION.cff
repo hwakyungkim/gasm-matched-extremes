@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "gasm-matched-extremes: supplementary code for the extremal elements of matched generalized alternating sign matrices"
+version: "1.0"
+date-released: "2026-10-09"
+license: MIT
+authors:
+  - family-names: "Kim"
+    given-names: "Hwa Kyung"
+    email: "indices@smu.ac.kr"
+    affiliation: "Department of Mathematics Education, Sangmyung University, Seoul, Republic of Korea"
+    orcid: "https://orcid.org/0000-0001-7727-9204"
+doi: "10.5281/zenodo.23257733"
+repository-code: "https://github.com/hwakyungkim/gasm-matched-extremes"
+url: "https://doi.org/10.5281/zenodo.23257733"
+abstract: >-
+  JavaScript (Node.js) programs that enumerate matched classes of generalized
+  alternating sign matrices, compute the arrays hi and lo, run the
+  left-to-right sweep, and draw Hasse diagrams of the Bruhat order. They check
+  the examples and the main statements of the paper "The extremal elements of
+  the Bruhat lattice of generalized alternating sign matrices with matched
+  boundary" on small cases.
+keywords:
+  - alternating sign matrix
+  - generalized alternating sign matrix
+  - Bruhat order
+  - distributive lattice
+  - six-vertex model

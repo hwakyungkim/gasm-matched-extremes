@@ -1,5 +1,7 @@
 # Matched generalized ASMs: extremal elements (supplementary code)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23257733.svg)](https://doi.org/10.5281/zenodo.23257733)
+
 Code accompanying the paper
 
 > H. K. Kim, *The extremal elements of the Bruhat lattice of generalized
@@ -24,6 +26,16 @@ node check-examples.mjs
 node onepercol-check.mjs
 node fig-ex44-bw.mjs Figure_1.tex
 ```
+
+## How to cite
+
+H. K. Kim, *gasm-matched-extremes: supplementary code for the extremal
+elements of matched generalized alternating sign matrices*, version 1.0
+[software], Zenodo, 2026. https://doi.org/10.5281/zenodo.23257733
+
+Author ORCID: https://orcid.org/0000-0001-7727-9204
+
+## Notation
 
 Boundaries are written as sign words, `+` for +1 and `-` for -1, e.g.
 `analyse(P('-+-+-'), P('-+-'))` in `hasse-tikz.mjs`.
